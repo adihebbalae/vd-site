@@ -96,7 +96,7 @@ const ProposalPopup: React.FC<ProposalPopupProps> = ({ name, onAccept }) => {
             Really?!
           </p>
           <p className="text-lg text-valentine-300 mt-3 animate-[fadeIn_0.5s_ease-out_0.4s_both]">
-            I knew you&apos;d say yes 💕
+            Thanks shawty!!! 💕
           </p>
         </div>
       ) : showRejection ? (
