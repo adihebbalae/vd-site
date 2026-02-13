@@ -85,7 +85,7 @@ const RSVPForm: React.FC<RSVPFormProps> = ({ onSubmit }) => {
 
         <div className="text-center mb-8">
           <div className="text-3xl mb-2">📋</div>
-          <h1 className="text-2xl md:text-3xl font-display font-bold text-gray-800 mb-1">Quick RSVP</h1>
+          <h1 className="text-2xl md:text-3xl font-display font-bold text-gray-800 mb-1">LHB RSVP</h1>
           <p className="text-gray-400 text-sm">Fill out the form below to continue</p>
         </div>
 
