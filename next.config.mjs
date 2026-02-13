@@ -2,6 +2,7 @@
 const nextConfig = {
   output: "export",
   basePath: "/vd-site",
+  distDir: "docs",
   images: {
     unoptimized: true,
   },
