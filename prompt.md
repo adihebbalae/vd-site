@@ -42,7 +42,7 @@ Build a full-stack Valentine's Day proposal website using Next.js that guides us
 
 ### Part 3: Proposal Popup
 - **Initial Popup**: 
-  - Display personalized message: "Hey [Name], will you be my valentine?"
+  - Display personalized message: "[Name], will you be my valentine?"
   - Romantic/heart-themed design with pink and love-themed elements
   - Two buttons: "Yes" and "No"
   - Both buttons should have hover effects and smooth transitions

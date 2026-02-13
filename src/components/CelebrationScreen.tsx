@@ -41,7 +41,7 @@ const CelebrationScreen: React.FC<CelebrationScreenProps> = ({ name }) => {
         </h1>
 
         <p className="text-lg md:text-xl text-valentine-600 font-body max-w-md mx-auto mb-4 animate-[fadeIn_0.3s_ease-out_0.4s_both]">
-          You&apos;ve made me the happiest person alive, {firstName}!
+          I'm excited for Saturday!
         </p>
 
         <p className="text-valentine-400 font-body text-base animate-[fadeIn_0.3s_ease-out_0.7s_both]">
